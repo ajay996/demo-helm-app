@@ -8,7 +8,7 @@ image:
   repository: ajay996/demo-help-app
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
-  tag: "9dbc07045cd3502b9863803b21356cd5ec2a93eb"
+  tag: "70b2bb27d7e1bb1b959aa6d7cfc39a5624eafd77"
 
 imagePullSecrets: []
 nameOverride: ""
